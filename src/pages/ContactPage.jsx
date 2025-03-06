@@ -2,6 +2,6 @@
 export function ContactPage(){
 
     return(
-        <h1>Homepage component as a page!</h1>
+        <h1>Contact page component as a page!</h1>
     )
 }
